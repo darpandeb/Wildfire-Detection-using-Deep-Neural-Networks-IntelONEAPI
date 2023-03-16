@@ -39,8 +39,15 @@ Among all the models, we got XGBoost Classifier with highest accuracy, so we dep
 ![intel](https://user-images.githubusercontent.com/72274851/218504609-585bcebe-5101-4477-bdd2-3a1ba13a64a8.png)
 
 
-## ⚡ Some Graphs involved in our project
+## ⚡ Some Graphs involved in numeric dataset
+- [x] XGBoost Classifier Confusion Matrix
 ![WhatsApp Image 2023-03-16 at 17 32 13](https://user-images.githubusercontent.com/62347601/225611081-dd889e13-466a-4cab-a1b1-fc46a3c90f92.jpg)
 
+- [x] Performed Data Preprocessing
+![WhatsApp Image 2023-03-16 at 17 35 35](https://user-images.githubusercontent.com/62347601/225611682-bbe9e188-30c9-4cbf-bba4-3a05d47fbfda.jpg)
+
+- [x] Relationship between various features
+![WhatsApp Image 2023-03-16 at 17 37 07](https://user-images.githubusercontent.com/62347601/225612214-992c753a-dfa2-4a1d-a0d9-682ab2b551c9.jpg)
 
 
+## ⚡ Some Graphs involved in imagery dataset
