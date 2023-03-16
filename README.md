@@ -73,4 +73,8 @@ https://user-images.githubusercontent.com/62347601/225616464-31cd97aa-a112-4af6-
 ## ⚡ Working of Image Classifications
 
 
+# What I learned ![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
+
+
+![image](https://user-images.githubusercontent.com/72274851/220130227-3c48e87b-3e68-4f1c-b0e4-8e3ad9a4805a.png)
 
