@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
  
-This is  Iris_Zero, and we are pleased to introduce our project on Forest Fire Detection and Prediction utilizing cutting-edge technologies such as Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Intel ONEAPI.👨‍💻. 
+This is  Iris_Zero, and we are pleased to introduce our project on Forest Fire Detection and Prediction utilizing cutting-edge technologies such as Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), on Intel ONEAPI server.👨‍💻. 
 
 ## 👯 Project Overview
 
@@ -71,6 +71,8 @@ https://user-images.githubusercontent.com/62347601/225616464-31cd97aa-a112-4af6-
 
 
 ## ⚡ Working of Image Classifications
+https://user-images.githubusercontent.com/62347601/225619458-1035442c-6759-4fac-86b7-f9f448b7fc3e.mp4
+
 
 
 # What I learned ![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
