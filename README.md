@@ -75,8 +75,16 @@ https://user-images.githubusercontent.com/62347601/225619458-1035442c-6759-4fac-
 
 
 
-# What I learned ![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
+# What we learned ![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
 
 
 ![image](https://user-images.githubusercontent.com/72274851/220130227-3c48e87b-3e68-4f1c-b0e4-8e3ad9a4805a.png)
 
+✔ The utilization of Intel oneAPI Data Analytics Library (oneDAL) can expedite big data analysis through the provision of highly optimized algorithmic building blocks for every phase of data analytics, encompassing preprocessing, transformation, analysis, modeling, validation, and decision-making, in batch, online, and distributed processing modes. This library enhances data ingestion and algorithmic computation to augment throughput and scalability.
+✔ We have garnered knowledge in data preprocessing, cleaning, missing value handling, and categorical variable management. Exploratory data analysis may have been conducted to derive insights into variable relationships.
+✔ We have acquired the ability to select pertinent machine learning algorithms for diverse problems, such as utilizing XGBClassfier for classification tasks and deep learning for image classification tasks.
+✔ We have gained knowledge about multiple machine learning algorithms and their applicability in predicting forest fires using various textual, numerical and image data.
+✔ We have gained experience in collecting and analyzing substantial amounts of data, including historical data, for training machine learning models.
+✔ We have learned to compare model performance using appropriate statistical tests or visualizations to select the best model for the given problem.
+
+Overall, predicting real-world phenomena using AI and Machine Learning is a demanding yet satisfying experience requiring a fusion of technical expertise.
