@@ -56,6 +56,7 @@ Among all the models, we got XGBoost Classifier with highest accuracy, so we dep
 - [x] Accuracy Achieved while training the model
 ![WhatsApp Image 2023-03-16 at 17 46 52](https://user-images.githubusercontent.com/62347601/225614650-bb77e6fb-53ad-421b-be0c-0d4bdafd6735.jpg)
 
+
 - [x] Confusion matrix generated after passing test data to the trained model
 ![WhatsApp Image 2023-03-16 at 17 46 52](https://user-images.githubusercontent.com/62347601/225614723-4a7deca8-3670-410f-a8de-931b533e8af4.jpg)
 
