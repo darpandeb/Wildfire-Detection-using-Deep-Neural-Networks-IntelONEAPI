@@ -9,6 +9,7 @@ This is  Iris_Zero, and we are pleased to introduce our project on Forest Fire D
 
 ## 👯 Project Overview
 
+
 Our project aims to provide an efficient solution to the issue of forest fires by leveraging these advanced technologies to detect and predict forest fires in real time. With the help of AI and ML algorithms, we can accurately predict the possibility of a forest fire and provide early warning systems to minimize the damage caused.
 
 We are confident that our project will benefit the environment and the community, and we look forward to presenting our findings and advancements in this field. 
