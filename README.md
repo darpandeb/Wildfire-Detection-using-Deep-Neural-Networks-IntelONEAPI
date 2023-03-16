@@ -84,7 +84,7 @@ https://user-images.githubusercontent.com/62347601/225619458-1035442c-6759-4fac-
 
 ✅ We have garnered knowledge in data preprocessing, cleaning, missing value handling, and categorical variable management. Exploratory data analysis may have been conducted to derive insights into variable relationships.
 
-✅ We have acquired the ability to select pertinent machine learning algorithms for diverse problems, such as utilizing XGBClassfier for classification tasks and deep learning for image classification tasks.
+✅ We have acquired the ability to select pertinent machine learning algorithms for diverse problems, such as utilizing XGBClassfier for classification tasks and deep learning for image classification tasks and leanred about handling imagery data and performing data augmentation and classification.
 
 ✅ We have gained knowledge about multiple machine learning algorithms and their applicability in predicting forest fires using various textual, numerical and image data.
 
