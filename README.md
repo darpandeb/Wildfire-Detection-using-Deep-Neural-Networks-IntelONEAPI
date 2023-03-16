@@ -53,15 +53,18 @@ Among all the models, we got XGBoost Classifier with highest accuracy, so we dep
 
 ## ⚡ Some Graphs involved in imagery dataset
 
-- [x] XGBoost Classifier Confusion Matrix
+- [x] Accuracy Achieved while training the model
 ![WhatsApp Image 2023-03-16 at 17 46 52](https://user-images.githubusercontent.com/62347601/225614650-bb77e6fb-53ad-421b-be0c-0d4bdafd6735.jpg)
 
-- [x] XGBoost Classifier Confusion Matrix
+- [x] Confusion matrix generated after passing test data to the trained model
 ![WhatsApp Image 2023-03-16 at 17 46 52](https://user-images.githubusercontent.com/62347601/225614723-4a7deca8-3670-410f-a8de-931b533e8af4.jpg)
 
-- [x] XGBoost Classifier Confusion Matrix
+- [x] loss value over the training data per epoch plot
 ![WhatsApp Image 2023-03-16 at 17 46 52](https://user-images.githubusercontent.com/62347601/225614788-ed4c2bdf-3457-4be3-8eb8-01614b3974b1.jpg)
 
+
+
+## ⚡ Working of Web Application
 
 
 
