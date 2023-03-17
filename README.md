@@ -35,6 +35,8 @@ Accuracy of model on numeric dataset
 - [x] Logistic Regression --> 0.91
 - [x] RF --> 0.97
 - [x] XGBoost --> 0.9726
+
+
 Accuracy of model on Image dataset 
 - [x] DNN ---> 0.54
 
