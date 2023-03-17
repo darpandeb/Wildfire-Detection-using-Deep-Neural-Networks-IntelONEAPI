@@ -48,7 +48,7 @@ Among all the models, we got XGBoost Classifier with highest accuracy, so we dep
 
 ## ⚡ Some Graphs involved in numeric dataset
 
-- [x] XGBoost Classifier Confusion Matrix
+- [x] XGBoost Classifier Confusion Matrix<br/>
 ![WhatsApp Image 2023-03-16 at 17 32 13](https://user-images.githubusercontent.com/62347601/225611081-dd889e13-466a-4cab-a1b1-fc46a3c90f92.jpg)
 
 ![WhatsApp Image 2023-03-16 at 17 35 35](https://user-images.githubusercontent.com/62347601/225611682-bbe9e188-30c9-4cbf-bba4-3a05d47fbfda.jpg)
