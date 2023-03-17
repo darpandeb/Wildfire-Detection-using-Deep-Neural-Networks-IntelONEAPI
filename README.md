@@ -101,3 +101,15 @@ https://user-images.githubusercontent.com/62347601/225619458-1035442c-6759-4fac-
 ✅ We have learned to compare model performance using appropriate statistical tests or visualizations to select the best model for the given problem.
 
 Overall, predicting real-world phenomena using AI and Machine Learning is a demanding yet satisfying experience requiring a fusion of technical expertise.
+
+
+
+
+
+
+
+CONTRIBUTORS 
+- Debanjan Basu
+- Darpan Deb
+- Saiyam Chettri
+- Arijeet Das CHowdhury
