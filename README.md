@@ -5,7 +5,7 @@
  
  
  
-This is  Iris_Zero, and we are pleased to introduce our project on Forest Fire Detection and Prediction utilizing cutting-edge technologies such as Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), on Intel ONEAPI server.👨‍💻. 
+This is  Iris_Zero, and we are pleased to introduce our project on Forest Fire Detection and Prediction utilizing cutting-edge technologies such as Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), on Intel ONEAPI server using Intel OneDAL and OneDNN.👨‍💻. 
 
 ## 👯 Project Overview
 
@@ -84,7 +84,7 @@ https://user-images.githubusercontent.com/62347601/225619458-1035442c-6759-4fac-
 
 ![image](https://user-images.githubusercontent.com/72274851/220130227-3c48e87b-3e68-4f1c-b0e4-8e3ad9a4805a.png)
 
-✅ The utilization of Intel oneAPI Data Analytics Library (oneDAL) can expedite big data analysis through the provision of highly optimized algorithmic building blocks for every phase of data analytics, encompassing preprocessing, transformation, analysis, modeling, validation, and decision-making, in batch, online, and distributed processing modes. This library enhances data ingestion and algorithmic computation to augment throughput and scalability.
+✅ The utilization of Intel oneAPI Data Analytics Library (oneDAL) can expedite big data analysis through the provision of highly optimized algorithmic building blocks for every phase of data analytics, encompassing preprocessing, transformation, analysis, modeling, validation, and decision-making, in batch, online, and distributed processing modes. This library enhances data ingestion and algorithmic computation to augment throughput and scalability. The uitilization of Intel oneAPI Deep Neural Network Library (oneDNN) has enabled heavy GPU and CPU intensive task like image processing etc.
 
 ✅ We have garnered knowledge in data preprocessing, cleaning, missing value handling, and categorical variable management. Exploratory data analysis may have been conducted to derive insights into variable relationships.
 
