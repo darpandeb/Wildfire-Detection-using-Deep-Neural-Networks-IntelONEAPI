@@ -50,12 +50,12 @@ Among all the models, we got XGBoost Classifier with highest accuracy, so we dep
 
 - [x] XGBoost Classifier Confusion Matrix<br/>
 ![WhatsApp Image 2023-03-16 at 17 32 13](https://user-images.githubusercontent.com/62347601/225611081-dd889e13-466a-4cab-a1b1-fc46a3c90f92.jpg)
-
+<br/>
+- [x] Performed Data Preprocessing<br/>
 ![WhatsApp Image 2023-03-16 at 17 35 35](https://user-images.githubusercontent.com/62347601/225611682-bbe9e188-30c9-4cbf-bba4-3a05d47fbfda.jpg)
-- [x] Performed Data Preprocessing
-
-![WhatsApp Image 2023-03-16 at 17 37 07](https://user-images.githubusercontent.com/62347601/225612214-992c753a-dfa2-4a1d-a0d9-682ab2b551c9.jpg)
+<br/>
 - [x] Relationship between various features
+![WhatsApp Image 2023-03-16 at 17 37 07](https://user-images.githubusercontent.com/62347601/225612214-992c753a-dfa2-4a1d-a0d9-682ab2b551c9.jpg)
 
 
 ## ⚡ Some Graphs involved in imagery dataset
