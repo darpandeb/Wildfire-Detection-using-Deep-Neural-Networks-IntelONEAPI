@@ -5,7 +5,7 @@
  
  
  
-This is  Iris_Zero, and we are pleased to introduce our project on Forest Fire Detection and Prediction utilizing cutting-edge technologies such as Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), on Intel ONEAPI server using Intel OneDAL and OneDNN.👨‍💻. 
+This is  Iris_Zero, and we are pleased to introduce our project on Forest Fire Detection and Prediction utilizing cutting-edge technologies such as Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), on Intel oneAPI server using Intel oneDAL and oneDNN.👨‍💻. 
 
 ## 👯 Project Overview
 
@@ -26,19 +26,21 @@ The idea we are proposing will definitely help in preventing wildfires from reac
 
 ### ✅ We conducted frame-wise classification to identify instances of forest fires within frames. Additionally, we applied feature extraction techniques to our numeric data and implemented data pre-processing methods.
 
-### ✅ Conducted preliminary data analysis on numerical data and applied data augmentation techniques to images in order to train our model effectively
+### ✅ Conducted preliminary data analysis on numerical data and applied data augmentation techniques to images in order to better train and fit our model effectively
 
-### ✅ Applied various model building alogorithms on numeric data like Logistic Regression, Random Forest, KNN, XGBoost Classifiers and trained and validate the Deep Neural Network model on imagery dataset. Along with these we implemented Hyperparameter testing on numeric data
+### ✅ Applied various model building alogorithms on numeric data like Logistic Regression, Random Forest, KNN, XGBoost Classifiers and trained and validate the Deep Neural Network model on imagery dataset for fire or no_fire image classification. Along with these we implemented Hyperparameter testing on numeric data
 
 Accuracy of model on numeric dataset 
 - [x] KNN --> 0.9315
 - [x] Logistic Regression --> 0.91
 - [x] RF --> 0.97
 - [x] XGBoost --> 0.9726
+Accuracy of model on Image dataset 
+- [x] DNN ---> 0.54
 
-Among all the models, we got XGBoost Classifier with highest accuracy, so we deployed the XGBoost Classifier model to create our Web Application.
+Among all the models, we got XGBoost Classifier with highest accuracy, so we deployed the XGBoost Classifier model to create our Web Application and for image classfication the DNN produced an accuracy of 54%.
 
-### ✅ The entire procedure is completed with the help of Intel oneDAL and AIToolkit and TensorFlow to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))
+### ✅ The entire procedure is completed with the help of Intel oneDAL and AIToolkit and Intel oneDNN (TensorFlow) to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL) and oneAPI Deep Neural Network Library (oneDNN))
 ![intel](https://user-images.githubusercontent.com/72274851/218504609-585bcebe-5101-4477-bdd2-3a1ba13a64a8.png)
 
 
